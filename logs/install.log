@@ -1,0 +1,2308 @@
+Log started 06/03/2016 at 07:19:50
+Preferred installation mode : gtk
+Trying to init installer in mode gtk
+Trying to init installer in mode gtk
+Trying to init installer in mode xwindow
+Trying to init installer in mode text
+Mode text successfully initialized
+Preparing to Install
+Preparing to Install
+Creating directory /home/ubuntu/ejabberd-16.04
+Creating directory /home/ubuntu/ejabberd-16.04/doc
+Creating directory /home/ubuntu/ejabberd-16.04/doc/img
+Creating directory /home/ubuntu/ejabberd-16.04/logs
+Creating directory /home/ubuntu/ejabberd-16.04/database
+Creating directory /home/ubuntu/ejabberd-16.04/conf
+Unpacking files
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/install.icns
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/uninstall.icns
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/default.css
+Unpacking /home/ubuntu/ejabberd-16.04/conf/ejabberdctl.cfg
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/p-one_footer.gif
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/p-one_header_r.gif
+Unpacking /home/ubuntu/ejabberd-16.04/doc/error.html
+Unpacking /home/ubuntu/ejabberd-16.04/doc/start.html
+Unpacking /home/ubuntu/ejabberd-16.04/doc/stop.html
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/ejabberd_banner.jpg
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/icon_p1.icns
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/icon_p1.ico
+Unpacking /home/ubuntu/ejabberd-16.04/doc/ssl.txt
+Unpacking /home/ubuntu/ejabberd-16.04/doc/COPYING
+Unpacking /home/ubuntu/ejabberd-16.04/doc/README.txt
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/icon_p1.png
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/icon_p1_512.png
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/install.png
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/p1_ejabberd.png
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/splash_p1.png
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/uninstall.png
+Unpacking /home/ubuntu/ejabberd-16.04/conf/server.pem
+Unpacking /home/ubuntu/ejabberd-16.04/conf/ejabberd.yml
+Unpacking /home/ubuntu/ejabberd-16.04/doc/GPL
+Unpacking /home/ubuntu/ejabberd-16.04/doc/MPL
+Unpacking /home/ubuntu/ejabberd-16.04/conf/inetrc
+Unpacking /home/ubuntu/ejabberd-16.04/doc/guide.html
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/install.ico
+Unpacking /home/ubuntu/ejabberd-16.04/doc/img/uninstall.ico
+Creating directory /home/ubuntu/ejabberd-16.04/bin
+Unpacking files
+Unpacking /home/ubuntu/ejabberd-16.04/bin/inet_gethost
+Unpacking /home/ubuntu/ejabberd-16.04/bin/erlexec
+Unpacking /home/ubuntu/ejabberd-16.04/bin/epmd
+Unpacking /home/ubuntu/ejabberd-16.04/bin/start.boot
+Unpacking /home/ubuntu/ejabberd-16.04/bin/start_clean.boot
+Unpacking /home/ubuntu/ejabberd-16.04/bin/ejabberd.init
+Unpacking /home/ubuntu/ejabberd-16.04/bin/ejabberd.service
+Unpacking /home/ubuntu/ejabberd-16.04/bin/postinstall.sh
+Unpacking /home/ubuntu/ejabberd-16.04/bin/preuninstall.sh
+Unpacking /home/ubuntu/ejabberd-16.04/bin/child_setup
+Unpacking /home/ubuntu/ejabberd-16.04/bin/erl
+Unpacking /home/ubuntu/ejabberd-16.04/bin/ejabberdctl
+Unpacking /home/ubuntu/ejabberd-16.04/bin/elixir
+Unpacking /home/ubuntu/ejabberd-16.04/bin/iex
+Unpacking /home/ubuntu/ejabberd-16.04/bin/mix
+Unpacking /home/ubuntu/ejabberd-16.04/bin/status
+Unpacking /home/ubuntu/ejabberd-16.04/bin/start
+Unpacking /home/ubuntu/ejabberd-16.04/bin/stop
+Unpacking /home/ubuntu/ejabberd-16.04/bin/erlc
+Unpacking /home/ubuntu/ejabberd-16.04/bin/beam
+Unpacking /home/ubuntu/ejabberd-16.04/bin/beam.smp
+Directory already exists: /home/ubuntu/ejabberd-16.04
+Creating directory /home/ubuntu/ejabberd-16.04/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/cean-2.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/cean-2.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/erts-7.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/misc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/main
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/flow
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/util
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/c_src
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/src
+Creating directory /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sasl-2.7
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/examples/src
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/examples/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7
+Creating directory /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/bin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/sql
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2
+Creating directory /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/priv/obj
+Creating directory /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/auth
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/cgi-bin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/conf
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/open
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/mnesia_open
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/misc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/secret
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/secret/top_secret
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/mnesia_secret
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/mnesia_secret/top_secret
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/ssl
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/logs
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/priv/bin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench
+Creating directory /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/priv/bin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/priv/obj
+Creating directory /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/client
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/erlangCA
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/otpCA
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/server
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/src
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/priv/bin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/bin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4
+Creating directory /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/priv/bin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/priv/mibs
+Creating directory /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/mibs
+Creating directory /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/mibs/v1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/priv/obj
+Creating directory /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10
+Creating directory /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/doc
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/examples
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/cache_tab-1.0.2
+Creating directory /home/ubuntu/ejabberd-16.04/lib/cache_tab-1.0.2/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4
+Creating directory /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7
+Creating directory /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0
+Creating directory /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/jiffy-0.14.7
+Creating directory /home/ubuntu/ejabberd-16.04/lib/jiffy-0.14.7/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/jiffy-0.14.7/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2
+Creating directory /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/luerl-1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2
+Creating directory /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92
+Creating directory /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/rebar_elixir_plugin-0.1.0
+Creating directory /home/ubuntu/ejabberd-16.04/lib/rebar_elixir_plugin-0.1.0/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d
+Creating directory /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7
+Creating directory /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3/priv
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3/priv/lib
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin
+Creating directory /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/include
+Creating directory /home/ubuntu/ejabberd-16.04/lib/linux-x86_64
+Unpacking files
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/v3_codegen.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/erl_bif_types.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/erl_types.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_mk_switch.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_primops.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_binary_match.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_binary_construct.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_ssa_const_prop.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_lcm.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_ssapre.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_tagscheme.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/main/hipe.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_messagean.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_to_icode.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/erl_bif_types.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/erl_types.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_beam_to_icode.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_primops.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_range.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_ssa_struct_reuse.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_type.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_mulret.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/hipe_rtl_to_llvm.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/hipe_llvm.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/ebin/yecc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/qlc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/qlc_pt.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_lint.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_parse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/dets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/el.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/cean-2.1/ebin/cean_cluster.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/cean-2.1/ebin/cean.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/cean-2.1/ebin/cean_tools.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/compiler.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_a.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_asm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_block.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_bool.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_bsm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_clean.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_dead.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_dict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_disasm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_except.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_flatten.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_jump.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_listing.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_opcodes.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_peep.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_receive.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_split.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_trim.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_type.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_validator.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/beam_z.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/cerl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/compiler.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/erts.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/kernel.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/kernel.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/application.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/application_controller.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/application_master.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/application_starter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/auth.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/src/uds_dist.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/ebin/parsetools.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/ebin/parsetools.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/alarm_handler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/sasl.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/sasl.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/stdlib.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/stdlib.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/array.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/base64.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/beam_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/binary.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/c.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/calendar.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/syntax_tools.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/syntax_tools.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/cerl_clauses.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/cerl_inline.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/cerl_sets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/cerl_trees.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/compile.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/core_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/core_lint.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/core_parse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/core_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/core_scan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_cconv.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_closurean.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_hipeify.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_messagean.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_pmatch.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_prettypr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_to_icode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/cerl_typean.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/code.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/code_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/dets_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/dets_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/dets_utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/dets_v8.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/erl_bifs.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/erl_prim_loader.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/elf_format.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/disk_log.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/disk_log_1.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/disk_log_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/disk_log_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/dist_ac.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/dist_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/erl_boot_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/erl_ddll.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/erl_distribution.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/erl_epmd.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/erl_reply.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_internal.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/dets_v9.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/dict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/digraph.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/digraph_utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/edlin.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/edlin_expand.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/epp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_anno.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_bits.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_compile.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_eval.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_expand_records.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_posix_msg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/erl_prettypr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/erl_comment_scan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/erl_recomment.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/epp_dodger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/erlang.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/erts_internal.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/erts_debug.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/error_handler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/error_logger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/file.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/file_io_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/file_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/gen_tcp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/gen_udp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/gen_sctp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/format_lib_supp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/erlsrv.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/filename.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/gb_trees.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/gb_sets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/gen.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/gen_event.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/gen_fsm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/gen_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_tar.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/error_logger_tty_h.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/ets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/file_sorter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/erl_scan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/error_logger_file_h.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/escript.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/eval_bits.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/filelib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/erl_syntax.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/erl_syntax_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/erl_tidy.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_adj_list.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_assemble.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_defuse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_encode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_frame.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_liveness.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_main.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_ra.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_ra_finalise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_ra_ls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_ra_naive.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_ra_postconditions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_ra_sse2_postconditions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_ra_x87_ls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_registers.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_specific.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_specific_sse2.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_specific_x87.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_spill_restore.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_amd64_x87.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_assemble.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_cfg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_defuse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_encode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_finalise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_frame.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_liveness_gpr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_main.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_ra.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_ra_finalise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_ra_ls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_ra_naive.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_ra_postconditions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_registers.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_arm_specific.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_bb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_beam_to_icode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_coalescing_regalloc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_consttab.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_data_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_digraph.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_dominators.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_dot.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_gen_cfg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_gensym.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_graph_coloring_regalloc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode2rtl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_bincomp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_callgraph.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/global.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/global_group.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/group.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/global_search.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/heart.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_cfg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_coordinator.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_ebb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_exceptions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_fp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_heap_test.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_inline_bifs.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_instruction_counter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_liveness.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_mulret.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_primops.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_range.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_split_arith.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_ssa.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_ssa_const_prop.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_ssa_copy_prop.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_ssa_struct_reuse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_icode_type.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ig.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ig_moves.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_jit.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_llvm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_llvm_liveness.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_llvm_main.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_llvm_merge.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ls_regalloc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_main.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_moves.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_node_sets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_optimistic_regalloc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_pack_constants.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_assemble.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_cfg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_defuse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_encode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_finalise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_frame.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_liveness_all.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_liveness_fpr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_liveness_gpr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_main.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_ra.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_ra_finalise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_ra_ls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_ra_naive.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_registers.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_profile.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_reg_worklists.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_regalloc_loop.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_specific_fp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_ra_postconditions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_ra_postconditions_fp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_ppc_specific.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_to_ppc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_binary.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_ssa_avail_expr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_arch.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sdi.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_to_arm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_to_llvm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_cfg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_defuse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_encode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_finalise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_frame.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_liveness_all.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_liveness_fpr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_liveness_gpr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_main.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_ra.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_ra_finalise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_ra_ls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_ra_naive.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_ra_postconditions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_to_x86.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_to_amd64.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_cfg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_liveness.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_mk_switch.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_primops.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_varmap.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_exceptions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_binary_match.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_binary_construct.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_arith_32.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_arith_64.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_ssa.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_ssa_const_prop.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_cleanup_const.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_symbolic.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_lcm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_ssapre.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_rtl_to_sparc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_assemble.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/init.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_tagscheme.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_timing.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_vectors.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_spillcost.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_specific_fp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_specific_x87.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_ra_postconditions_fp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_registers.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_spillmin_color.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_spillmin_scan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_assemble.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_cfg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_defuse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_encode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_frame.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_liveness.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_main.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_postpass.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_ra.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_ra_finalise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_ra_ls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_ra_naive.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_ra_postconditions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_ra_x87_ls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_registers.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_spill_restore.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_x87.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_spillmin.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_temp_map.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_sparc_specific.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/ebin/hipe_x86_specific.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_sctp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/hipe_unified_loader.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet6_tcp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet6_tcp_dist.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet6_udp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_dns.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_hosts.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_res.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_tcp_dist.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet6_sctp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_db.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_gethost_native.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_parse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_tcp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/inet_udp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/io.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/io_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/io_lib_format.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/igor.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/rec_env.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/prim_file.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/prim_inet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/prim_zip.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/otp_ring0.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/prim_eval.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/kernel.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/kernel_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/net.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/net_adm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/net_kernel.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/os.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/pg2.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/ram_file.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/ebin/leex.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/misc_supp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/overload.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/rb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/rb_format_supp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/release_handler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/release_handler_1.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/io_lib_fread.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/io_lib_pretty.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/lists.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/log_mf_h.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/maps.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/math.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/ms_transform.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/otp_internal.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/orddict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/ordsets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/re.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/pool.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/proc_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/proplists.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/queue.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/rand.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/random.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/prettypr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/merl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/ebin/merl_transform.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/sys_core_fold_lists.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/sys_core_inline.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/sys_pre_expand.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/v3_core.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/sys_core_dsetel.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/sys_core_fold.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/sys_pre_attributes.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/rpc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/seq_trace.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/standard_error.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/user.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/user_drv.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/user_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/sasl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/sasl_report.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/sasl_report_file_h.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/sasl_report_tty_h.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/si.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/si_sasl_supp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/systools.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/systools_make.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/systools_rc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/systools_relup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/ebin/systools_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/examples/ebin/target_system.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/sets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/shell.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/shell_default.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/slave.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/sofs.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/string.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/supervisor.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/supervisor_bridge.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/sys.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/timer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/unicode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/v3_kernel_pp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/v3_kernel.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/compiler-6.0.3/ebin/v3_life.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/erts-7.3/ebin/zlib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_cconv.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_closurean.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_hipeify.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_lib.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_pmatch.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_prettypr.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/ebin/wrap_log_reader.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/c_src/uds_drv.c
+Unpacking /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/ebin/yeccparser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/ebin/yeccscan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/win32reg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/ebin/zip.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_icode2rtl.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/misc/hipe_consttab.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/misc/hipe_gensym.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/misc/hipe_data_pp.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_typean.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_bincomp.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_callgraph.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_cfg.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_coordinator.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_fp.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_exceptions.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_heap_test.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_ebb.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/flow/hipe_bb.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/flow/hipe_dominators.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/flow/hipe_gen_cfg.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/util/hipe_dot.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/util/hipe_digraph.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/elf_format.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/examples/erl_id_trans.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/examples/demo.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_cfg.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_liveness.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_varmap.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_exceptions.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_arith_32.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_arith_64.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_ssa.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_cleanup_const.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_symbolic.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_binary.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_ssa_avail_expr.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_rtl_arch.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/misc/hipe_pack_constants.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/misc/hipe_sdi.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/main/hipe_main.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_inline_bifs.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_instruction_counter.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_liveness.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_pp.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_split_arith.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_ssa.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_ssa_const_prop.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_ssa_copy_prop.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/util/hipe_timing.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/util/hipe_vectors.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/hipe_llvm_main.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/hipe_llvm_merge.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/hipe_llvm_liveness.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/src/uds.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/src/uds_dist.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/src/uds_server.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/examples/src/target_system.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/include/assert.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/vsn.mk
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/rtl/hipe_literals.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/misc/hipe_sdi.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/main/hipe.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/cerl/cerl_hipe_primops.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_primops.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/icode/hipe_icode_type.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/flow/cfg.inc
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/flow/ebb.inc
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/flow/liveness.inc
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/elf_format.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/elf32_format.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/elf64_format.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hipe-3.15/llvm/hipe_llvm_arch.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/include/file.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/include/inet.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/include/inet_sctp.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/include/dist.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/include/dist_util.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/include/net_address.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/include/yeccpre.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/parsetools-2.1.1/include/leexinc.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/include/erl_compile.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/include/erl_bits.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/include/ms_transform.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/include/qlc.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stdlib-2.8/include/zip.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/syntax_tools-1.7/include/merl.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/ca.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/cs.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/de.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/eo.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/es.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/fr.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/gl.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/he.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/id.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/it.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/ja.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/nl.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/no.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/pl.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/pt-br.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/c_src/Makefile
+Unpacking /home/ubuntu/ejabberd-16.04/lib/kernel-4.2/examples/uds_dist/src/Makefile
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sasl-2.7/examples/src/Makefile
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/ru.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/uk.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_c2s.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_web_admin.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_muc_room.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_pubsub.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/priv/lib/asn1rt_nif.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_check.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_imm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/priv/lib/crypto.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_ctrl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_ctrl.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/mnesia_tpcb.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_schema.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/priv/bin/odbcserver
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKCS-FRAME.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/OTP-PUB-KEY.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/priv/lib/trace_ip_drv.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_scan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xsd.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sax_parser_list.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sax_parser_latin1.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sax_parser_utf8.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sax_parser_utf16be.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sax_parser_utf16le.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_parser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Unicode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/acl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/adhoc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/examples/P-Record.asn
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1_db.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_func.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_constructed_per.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_constructed_ber_bin_v2.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_eval_ext.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/ebin/crypto.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/ebin/crypto.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/ebin/odbc.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/ebin/odbc.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKIX1Explicit88.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKIX1Implicit88.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKIX1Algorithms88.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKIXAttributeCertificate.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKCS-1.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKCS-3.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKCS-7.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKCS-8.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKCS-10.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKCS5v2-0.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/OTP-PKIX.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/InformationFramework.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/RFC5639.asn1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/OTP-PUB-KEY.asn1config
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/public_key.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/public_key.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/tools.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/tools.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/os_mon.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/os_mon.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/appmon_info.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/runtime_tools.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/runtime_tools.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit.appup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/cache_tab-1.0.2/ebin/cache_tab.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/cyrsasl_anonymous.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/cyrsasl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/cyrsasl_digest.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/cyrsasl_oauth.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/cyrsasl_plain.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/cyrsasl_scram.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_pretty_format.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_gen.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_gen_check.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_gen_per.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_name.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_gen_ber_bin_v2.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_rtt.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_value.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_tok.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_parser2.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1ct_table.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1rt.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/asn1-4.0.2/ebin/asn1rt_nif.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/ebin/crypto.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/ebin/crypto_ec_curves.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/ebin/client_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/dtls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/dtls_connection.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/dtls_connection_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/dtls_handshake.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/dtls_record.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/dtls_v1.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/cover.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/cover_web.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/cprof.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/disksup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/cpu_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/dbg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/dyntrace.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/cache_tab-1.0.2/ebin/cache_tab_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/cache_tab-1.0.2/ebin/cache_tab.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/cache_tab-1.0.2/ebin/cache_tab_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_admin.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_auth_anonymous.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_auth.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_auth_external.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_auth_ldap.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_auth_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_auth_pam.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_auth_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_auth_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_c2s_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_captcha.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_cluster.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_commands.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_commands_doc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_ctl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_frontend_socket.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_hooks.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_http.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_http_bind.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_http_ws.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_idna.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_listener.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_local.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_logger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_node_groups.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_oauth.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_piefxis.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_rdbms.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_receiver.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_regexp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_riak_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_router.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_router_multicast.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_s2s.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_s2s_in.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_s2s_out.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_service.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_sm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_sm_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_sm_redis.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_sm_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_socket.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_sql_pt.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_sql_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_stun.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_system_monitor.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_tmp_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_update.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_web.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_websocket.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejabberd_xmlrpc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ejd2sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/eldap.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/eldap_filter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/eldap_filter_yecc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/eldap_pool.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/eldap_utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ELDAPv3.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/Elixir.Ejabberd.Hooks.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/Elixir.Ejabberd.Logger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.EEx.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.EEx.Compiler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.EEx.Engine.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.EEx.SmartEngine.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.EEx.SyntaxError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.EEx.Tokenizer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Access.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Access.Map.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Agent.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Agent.Server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Application.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ArgumentError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ArithmeticError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Atom.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.BadArityError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.BadFunctionError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.BadMapError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.BadStructError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Base.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Behaviour.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Bitwise.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.CaseClauseError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Code.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Code.LoadError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.BitString.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.File.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.HashDict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.HashSet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.IO.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.List.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.Map.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Collectable.MapSet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.CompileError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.CondClauseError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Dict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enum.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enum.EmptyError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.File.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.Function.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.GenEvent.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.HashDict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.HashSet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.IO.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.List.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.Map.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.MapSet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.Range.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enumerable.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Enum.OutOfBoundsError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ErlangError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Exception.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.AssertionError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.Assertions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.Callbacks.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.CaptureIO.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/Elixir.ExUnit.CTFormatter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/Elixir.ModPresenceDemo.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.File.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.File.CopyError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.File.Error.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.File.Stat.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.File.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Float.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.FunctionClauseError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.GenEvent.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.GenEvent.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.GenServer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.HashDict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.HashSet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Algebra.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Any.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Atom.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.BitString.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Error.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Float.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Function.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.HashDict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.HashSet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Integer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.List.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Map.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.MapSet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Opts.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.PID.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Port.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Range.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Reference.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Integer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Regex.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Tuple.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Version.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Inspect.Version.Requirement.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IO.ANSI.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IO.ANSI.Docs.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IO.ANSI.Sequence.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IO.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IO.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IO.StreamError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.CLI.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.Def.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.ErrorHandler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.LexicalTracker.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.ParallelCompiler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.ParallelRequire.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.SpecialForms.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Kernel.Typespec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.KeyError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Keyword.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.List.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.List.Chars.Atom.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.List.Chars.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.List.Chars.BitString.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.List.Chars.Float.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.List.Chars.Integer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.List.Chars.List.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Macro.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Macro.Env.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Map.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.MapSet.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.MatchError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.App.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.CaptureLog.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.Case.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.CaseTemplate.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.CLIFormatter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.DocTest.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.DocTest.Error.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.EventManager.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.Filters.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.Formatter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.OnExitHandler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.Runner.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.RunnerStats.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.Server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.Test.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.TestCase.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.ExUnit.TimeoutError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.Autocomplete.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.CLI.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.Config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.Evaluator.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.Helpers.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.History.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.History.State.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.Introspection.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.Remsh.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.Server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.IEx.State.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.App.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.Backends.Console.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.Config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.ErrorHandler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.Formatter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.Translator.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.Utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/elixir_logger_backend.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/eprof.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_aliases.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_bitstring.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_bootstrap.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_clauses.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_code_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_compiler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_counter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_def.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_def_defaults.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_def_overridable.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_dispatch.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_env.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_errors.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_exp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_exp_clauses.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_fn.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_for.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_import.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_interpolation.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_lexical.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_locals.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_map.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_module.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Module.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Module.LocalsTracker.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Node.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.OptionParser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Path.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Path.Wildcard.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Port.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Process.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Protocol.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Protocol.UndefinedError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_quote.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Range.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Record.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Record.Extractor.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Regex.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Regex.CompileError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_rewrite.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.RuntimeError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_scope.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Set.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Stream.Reducers.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.Atom.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.BitString.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.Float.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.Integer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.List.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.URI.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.Version.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Chars.Version.Requirement.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.String.Graphemes.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.StringIO.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Supervisor.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Supervisor.Default.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Supervisor.Spec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.SyntaxError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.System.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.SystemLimitError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Task.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Task.Supervised.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Task.Supervisor.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_tokenizer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.TokenMissingError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_translator.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_try.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.TryClauseError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Tuple.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.UndefinedFunctionError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.UnicodeConversionError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.URI.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/elixir_utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Version.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Version.InvalidRequirementError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Version.InvalidVersionError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Version.Parser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Version.Parser.DSL.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Version.Requirement.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/extauth.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/ext_mod.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/gen_iq_handler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/gen_mod.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/gen_pubsub_node.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/gen_pubsub_nodetree.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_client.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_logger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_random_html.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_slave.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/http_chunk.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/http_transport.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/http_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/http_request.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/http_response.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/http_uri.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc_cookie.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc_handler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc_manager.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc_handler_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc_profile_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc_response.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpc_request.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_acceptor.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_acceptor_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_cgi.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/ftp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/ftp_progress.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/ftp_response.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/ftp_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/fprof.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/erts_alloc_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_autoexport.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_striptests.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_tests.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_proc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_serial.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_test.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_data.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_tty.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_surefire.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/ebin/eunit_listener.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/jd2ejd.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/jid.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/jlib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets_service.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets_trace.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/inets_time_compat.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_connection_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_conf.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_custom.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_example.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_esi.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_file.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_instance_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_log.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_manager.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_misc_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_request.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_request_handler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_response.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_script_env.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_socket.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/httpd_custom_api.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_backup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_bup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_checkpoint.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_checkpoint_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_controller.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_dumper.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_event.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_frag.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_frag_hash.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_frag_old_hash.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_index.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_kernel_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_late_loader.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/inet_tls_dist.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/inet6_tls_dist.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/lcnt.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/instrument.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/make.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/memsup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_adhoc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_admin_extra.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_announce.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_announce_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_announce_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_announce_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_blocking.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_blocking_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_blocking_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_blocking_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_caps.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_caps_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_caps_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_caps_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_carboncopy.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_carboncopy_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_client_state.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_configure2.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_configure.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_disco.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_echo.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_fail2ban.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_actions.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_alias.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_auth.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_auth_plain.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_auth_dets.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_auth_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_auth_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_browser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_cgi.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_dir.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_disk_log.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_esi.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_get.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_head.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_loader.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_locker.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_log.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_monitor.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_recover.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_registry.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_snmp_hook.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_snmp_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_subscr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_sp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_text.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/ebin/mnesia_tm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_http_api.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_http_bind.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_http_fileserver.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_http_upload.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_http_upload_quota.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_ip_blacklist.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_irc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_irc_connection.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_irc_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_irc_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_irc_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_last.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_last_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_last_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_last_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_mam.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_mam_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_mam_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_metrics.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_mix.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_muc_admin.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_muc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_muc_log.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_muc_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_muc_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_muc_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_multicast.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_offline.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_offline_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_offline_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_offline_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_ping.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_pres_counter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_privacy.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_privacy_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_privacy_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_privacy_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_private.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_private_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_private_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_private_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_proxy65.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_proxy65_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_htaccess.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_log.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_proxy65_service.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_proxy65_sm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_proxy65_stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_register.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_register_web.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_roster.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_roster_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_roster_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_roster_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_service_log.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_shared_roster.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_shared_roster_ldap.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_shared_roster_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_shared_roster_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_shared_roster_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_sic.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_sip.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_sip_proxy.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_sip_registrar.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_stats.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_time.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard_ldap.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard_xupdate.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard_xupdate_mnesia.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard_xupdate_riak.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_vcard_xupdate_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/mod_version.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_buddy.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_club.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_dag.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_dispatch.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_flat.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_flat_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_hometree.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_hometree_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_mb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_mix.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_mix_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_online.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_pep.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_pep_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_private.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/node_public.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/nodetree_dag.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/nodetree_tree.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/nodetree_tree_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/nodetree_virtual.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_range.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_responsecontrol.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_trace.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_security.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/mod_security_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/ebin/odbc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/ebin/odbc_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/ebin/odbc_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/os_mon.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/os_mon_mib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/os_mon_sysinfo.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/nteventlog.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/observer_backend.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/prosody2ejabberd.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/pubsub_db_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/pubsub_index.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/pubsub_migrate.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/pubsub_subscription.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/pubsub_subscription_sql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/randoms.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/scram.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/shaper.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/sql_queries.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/str.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/tftp_binary.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/tftp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_session_cache_api.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_crl_cache_api.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_alert.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_dist_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_certificate.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_pkix_db.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_cipher.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_srp_primes.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_connection.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_handshake.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_manager.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_session.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_session_cache.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_crl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_crl_cache.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_socket.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_listen_tracker_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_record.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_v2.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_v3.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/ssl_tls_dist_proxy.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/PKCS-FRAME.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/public_key.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/pubkey_pem.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/pubkey_ssh.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/pubkey_pbe.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/pubkey_cert.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/pubkey_cert_records.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/ebin/pubkey_crl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/tags.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/ebin/os_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/runtime_tools.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/runtime_tools_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/percept_profile.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/system_information.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/translate.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/win32_dns.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/ebin/XmppAddr.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/conf/8080.conf
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/conf/8888.conf
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/conf/httpd.conf
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/conf/ssl.conf
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/tftp_engine.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/tftp_file.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/tftp_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/tftp_logger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/ebin/tftp_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.config1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.config2
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.config3
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.config4
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.config5
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/tls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/tls_connection.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/tls_connection_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/tls_handshake.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/tls_record.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/ebin/tls_v1.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/xref.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/xref_base.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/xref_compiler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/xref_parser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/xref_reader.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/xref_scanner.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/ebin/xref_utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/priv/mibs/OTP-OS-MON-MIB.bin
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/ebin/ttb_autostart.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xs.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_eventp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xpath.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_b64Bin.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_b64Bin_scan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_html.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_otpsgml.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_regexp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sgml.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_simple.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_text.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_ucs.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_uri.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_validate.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xlate.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xml.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xpath_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xpath_parse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xpath_pred.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xpath_scan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_xsd_type.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sax_parser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sax_simple_dom.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/ebin/xmerl_sax_old_dom.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/adhoc.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ejabberd_commands.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ejabberd_config.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ejabberd_ctl.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ejabberd.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ejabberd_http.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ejabberd_sm.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ejabberd_sql_pt.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ejabberd_web_admin.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/eldap.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ELDAPv3.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/http_bind.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/jlib.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/logger.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_announce.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_caps.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_carboncopy.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_irc.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_last.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_mam.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_muc.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_muc_room.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_offline.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/a.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/alert.black.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/alert.red.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/apache_pb.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/back.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/ball.gray.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/ball.red.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/binary.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/binhex.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/blank.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/bomb.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/box1.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/box2.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/broken.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/burst.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button1.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button10.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button2.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button3.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button4.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button5.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button6.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button7.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button8.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/button9.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/buttonl.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/buttonr.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/c.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/comp.blue.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/comp.gray.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/compressed.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/continued.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/dir.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/down.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/dvi.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/f.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/folder.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/folder.open.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/folder.sec.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/forward.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/generic.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/generic.red.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/generic.sec.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/hand.right.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/hand.up.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/htdig.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/icon.sheet.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/image1.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/image2.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/image3.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/index.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/layout.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/left.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/link.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/movie.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/p.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/patch.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pdf.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie0.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie1.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie2.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie3.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie4.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie5.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie6.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie7.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/pie8.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/portal.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/poweredby.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/ps.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/quill.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/right.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/screw1.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/screw2.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/script.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/sound1.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/sound2.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/sphere1.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/sphere2.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/star.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/star_blank.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/tar.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/tex.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/text.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/transfer.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/unknown.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/up.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/uu.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/uuencoded.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/world1.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/world2.gif
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_client.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_logger.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_random_html.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_server.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_slave.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/include/httpd.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/include/mod_auth.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/company.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/company_o.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bup.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/mnesia_meter.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/company.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/company_o.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench_generate.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench_populate.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench_trans.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.config6
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.config7
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/src/client_server.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/examples/xref_examples.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/mibs/OTP-OS-MON-MIB.funcs
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/dist.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/driver1.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/efile_drv.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/function-calls.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/garbage-collection.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/memory1.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/messages.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/port1.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/process-scheduling.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/spawn-exit.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/user-probe.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/user-probe-n.d
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/examples/fib.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/include/eunit.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/pt.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/sk.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/sv.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/th.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/tr.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/vi.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/wa.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_privacy.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_private.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_proxy65.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_roster.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_shared_roster.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_vcard.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/mod_vcard_xupdate.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/ns.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/pubsub.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/include/XmppAddr.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/index.html
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/open/dummy.html
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/mnesia_open/dummy.html
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/misc/friedrich.html
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/misc/oech.html
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/secret/dummy.html
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/mnesia_secret/dummy.html
+Unpacking /home/ubuntu/ejabberd-16.04/lib/odbc-2.11.1/include/odbc.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/OTP-PUB-KEY.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/PKCS-FRAME.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/include/OTP-PUB-KEY.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/include/PKCS-FRAME.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/include/public_key.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/priv/index.html
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/mibs/OTP-OS-MON-MIB.mib
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/include/OTP-OS-MON-MIB.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/include/observer_backend.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/include/xmerl.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/include/xmerl_xpath.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/xmerl-1.3.10/include/xmerl_xsd.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/msgs/zh.msg
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/bin/captcha.sh
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/sql/lite.sql
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/sql/mssql.sql
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/sql/mysql.sql
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ejabberd-16.04/priv/sql/pg.sql
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/priv/obj/crypto_callback.o
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/priv/lib/crypto_callback.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/cgi-bin/printenv.sh
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/conf/mime.types
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/config.shtml
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/echo.shtml
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/exec.shtml
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/flastmod.shtml
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/fsize.shtml
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/htdocs/include.shtml
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/ssl/ssl_client.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/ssl/ssl_server.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt.sh.skel
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt.config.skel
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_ssl_client_cert.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/httpd_load_test/hdlt_ssl_server_cert.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/priv/bin/runcgi.sh
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/bench.sh
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/client/cacerts.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/client/cert.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/client/key.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/erlangCA/cert.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/otpCA/cert.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/server/cacerts.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/server/cert.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/certs/etc/server/key.pem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/priv/cover.tool
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/mibs/v1/OTP-OS-MON-MIB.mib.v1
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/dist.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/driver1.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/efile_drv.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/function-calls.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/garbage-collection.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/memory1.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/messages.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/port1.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/process-scheduling.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/spawn-exit.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/user-probe-n.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/examples/user-probe.systemtap
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/priv/obj/dyntrace.o
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/priv/lib/dyntrace.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/runtime_tools-1.9.3/priv/lib/trace_file_drv.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eunit-2.2.13/examples/tests.txt
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/priv/obj/Makefile
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/auth/group
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/auth/passwd
+Unpacking /home/ubuntu/ejabberd-16.04/lib/inets-6.2/examples/server_root/icons/README
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/DATA
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/Makefile
+Unpacking /home/ubuntu/ejabberd-16.04/lib/mnesia-4.13.3/examples/bench/README
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ssl-7.3/examples/src/Makefile
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/priv/bin/memsup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/os_mon-2.4/priv/bin/cpu_sup
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/priv/lib/fast_tls_drv.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/priv/lib/fxml_stream.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5/priv/sqlite3_drv.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3/priv/lib/stringprep.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/linux-x86_64/libexpat.so.1.6.0
+Unpacking /home/ubuntu/ejabberd-16.04/lib/linux-x86_64/libncurses.so.5
+Unpacking /home/ubuntu/ejabberd-16.04/lib/linux-x86_64/libtinfo.so.5
+Unpacking /home/ubuntu/ejabberd-16.04/lib/linux-x86_64/libyaml-0.so.2
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Logger.Watcher.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Archive.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.CLI.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Compilers.Elixir.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Compilers.Erlang.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Config.Agent.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Config.LoadError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Dep.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Dep.Converger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Dep.Fetcher.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Dep.Loader.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Dep.Lock.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Dep.Umbrella.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.ElixirVersionError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Error.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Generator.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Hex.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.InvalidTaskError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Local.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.NoProjectError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.NoTaskError.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Project.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.ProjectStack.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.PublicKey.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Rebar.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.RemoteConverger.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.SCM.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.SCM.Git.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.SCM.Path.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Shell.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Shell.IO.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Shell.Process.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.State.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Task.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.App.Start.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Archive.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Archive.Build.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Archive.Install.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Archive.Uninstall.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Clean.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Cmd.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Compile.All.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Compile.App.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Compile.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Compile.Elixir.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Compile.Erlang.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Compile.Leex.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Compile.Protocols.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Compile.Yecc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Deps.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Deps.Check.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Deps.Clean.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Deps.Compile.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Deps.Get.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Deps.Loadpaths.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Deps.Unlock.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Deps.Update.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Do.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Escript.Build.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Help.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Iex.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Loadconfig.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Loadpaths.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Local.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Local.Hex.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Local.PublicKeys.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Local.Rebar.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.New.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Profile.Fprof.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Run.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.TasksServer.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Test.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Tasks.Test.Cover.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/Elixir.Mix.Utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/eex.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/ex_unit.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/iex.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/logger.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/elixir-1.1.1/ebin/mix.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin/basho_bench_driver_eredis.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin/basho_bench_driver_erldis.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin/eredis.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin/eredis_client.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin/eredis_parser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin/eredis_sub.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin/eredis_sub_client.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/ebin/eredis.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_client_transaction.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_codec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_dialog.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_listener.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_server_transaction.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_socket.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_tmp_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_transaction.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_transport.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip_udp_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/ebin/esip.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1/ebin/ezlib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1/ebin/ezlib.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/ebin/fast_tls.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin/fast_xml.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3/ebin/fast_yaml.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/goldrush.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0/ebin/hamcrest.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0/ebin/iconv.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/jiffy-0.14.7/ebin/jiffy.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/error_logger_lager_h.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/ebin/p1_mysql.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin/p1_oauth2.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1/ebin/p1_pgsql.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4/ebin/p1_utils.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/beam_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/p1_xmlrpc.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin/protobuffs.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/rebar_elixir_plugin-0.1.0/ebin/rebar_elixir_plugin.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_pb.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5/ebin/sqlite3.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3/ebin/stringprep.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun.app
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1/ebin/ezlib_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1/ebin/ezlib_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/ebin/fast_tls_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/ebin/fast_tls.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/ebin/fast_tls_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin/fast_xml.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin/fxml.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin/fxml_gen.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin/fxmlrpc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin/fxmlrpc_codec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin/fxml_stream.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/ebin/fxml_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3/ebin/fast_yaml_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3/ebin/fast_yaml.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3/ebin/fast_yaml_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/glc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/glc_code.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/glc_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/glc_ops.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_context.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_counter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_counter_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gre.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_manager.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_manager_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_param.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_param_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/ebin/gr_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0/ebin/hamcrest.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0/ebin/hamcrest_matchers.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0/ebin/hamcrest_term.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0/ebin/iconv_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0/ebin/iconv.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0/ebin/iconv_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/jiffy-0.14.7/ebin/jiffy.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/jiffy-0.14.7/ebin/jiffy_utf8.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_backend_throttle.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_common_test_backend.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_console_backend.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_crash_log.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_default_formatter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_file_backend.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_format.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_handler_watcher.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_handler_watcher_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_msg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_stdlib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_transform.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_trunc_io.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/ebin/lager_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_comp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_comp_cg.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_comp_env.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_comp_locf.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_comp_peep.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_comp_vars.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_emul.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_basic.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_bit32.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_io.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_math.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_os.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_package.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_string.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_string_format.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_lib_table.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_parse.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_scan.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/luerl_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_args_matcher.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_code.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_code_gen.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/ebin/p1_sha.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_cover.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_expect.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_history.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_matcher.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_proc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_ret_spec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/meck-0.8.2/ebin/meck_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/ebin/p1_mysql_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/ebin/p1_mysql_auth.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/ebin/p1_mysql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/ebin/p1_mysql_conn.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/ebin/p1_mysql_recv.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/ebin/p1_mysql_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin/oauth2_backend.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin/oauth2.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin/oauth2_config.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin/oauth2_priv_set.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin/oauth2_response.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin/oauth2_token.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_oauth2-0.6.1/ebin/oauth2_token_generation.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1/ebin/pgsql_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1/ebin/pgsql.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1/ebin/pgsql_proto.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1/ebin/pgsql_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1/ebin/pgsql_tcp.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_pgsql-1.0.1/ebin/pgsql_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4/ebin/p1_edoc_layout.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4/ebin/p1_fsm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4/ebin/p1_nif_utils.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4/ebin/p1_server.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4/ebin/p1_time_compat.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_utils-1.0.4/ebin/treap.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/tcp_serv.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin/pokemon_pb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin/protobuffs.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin/protobuffs_cli.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin/protobuffs_compile.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin/protobuffs_file.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin/protobuffs_parser.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/protobuffs-0.8.2-4-g6e7fc92/ebin/protobuffs_scanner.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/rebar_elixir_plugin-0.1.0/ebin/rebar_elixir_compiler.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/rebar_elixir_plugin-0.1.0/ebin/rebar_exunit.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc_counter.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc_datatype.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc_flag.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc_map.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc_obj.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc_pb_socket.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc_register.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/ebin/riakc_set.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_dt_pb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_kv_pb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_pb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_pb_codec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_pb_dt_codec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_pb_kv_codec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_pb_messages.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_pb_search_codec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_search_pb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/ebin/riak_yokozuna_pb.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5/ebin/sqlite3.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5/ebin/sqlite3_lib.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3/ebin/stringprep_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3/ebin/stringprep.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stringprep-1.0.3/ebin/stringprep_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun_app.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun_codec.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun_listener.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun_shaper.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun_test.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/stun_tmp_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/priv/basho_bench_eredis.config
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/priv/basho_bench_eredis_pipeline.config
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/priv/basho_bench_erldis.config
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/include/eredis.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/eredis-1.0.8/include/eredis_sub.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/priv/lib/esip_drv.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/include/esip.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/esip-1.0.4/include/esip_lib.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/ezlib-1.0.1/priv/lib/ezlib_drv.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_tls-1.0.3/priv/lib/p1_sha.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/priv/lib/fxml.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/include/fxml_gen.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_xml-1.1.3/include/fxml.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/fast_yaml-1.0.3/priv/lib/fast_yaml.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/goldrush-0.1.7/priv/edoc.css
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0/include/hamcrest.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/hamcrest-0.1.0/include/hamcrest_internal.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/iconv-1.0.0/priv/lib/iconv.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/priv/edoc.css
+Unpacking /home/ubuntu/ejabberd-16.04/lib/lager-3.0.2/include/lager.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/luerl-1/ebin/ttdict.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_mysql-1.0.1/include/p1_mysql.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/url_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/xmlrpc.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/xmlrpc_decode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/xmlrpc_encode.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/xmlrpc_http.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/xmlrpc_tests.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/ebin/xmlrpc_util.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/p1_xmlrpc-1.15.1/include/xmlrpc.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/priv/edoc.css
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riakc-2.1.1-13-g527722d/include/riakc.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/include/riak_dt_pb.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/include/riak_kv_pb.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/include/riak_pb.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/include/riak_pb_kv_codec.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/include/riak_search_pb.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/riak_pb-2.1.0.7/include/riak_yokozuna_pb.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/sqlite3-1.1.5/include/sqlite3.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/turn.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/turn_sm.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/ebin/turn_tmp_sup.beam
+Unpacking /home/ubuntu/ejabberd-16.04/lib/stun-1.0.3/include/stun.hrl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/crypto-3.6.3/priv/obj/crypto.o
+Unpacking /home/ubuntu/ejabberd-16.04/lib/public_key-1.1.1/asn1/OTP-PUB-KEY.erl
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/priv/bin/emem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/tools-2.8.3/bin/emem
+Unpacking /home/ubuntu/ejabberd-16.04/lib/jiffy-0.14.7/priv/jiffy.so
+Unpacking /home/ubuntu/ejabberd-16.04/lib/linux-x86_64/libcrypto.so.1.0.0
+Unpacking /home/ubuntu/ejabberd-16.04/lib/linux-x86_64/libssl.so.1.0.0
+Creating link /home/ubuntu/ejabberd-16.04/lib/kernel
+Creating link /home/ubuntu/ejabberd-16.04/lib/stdlib
+Directory already exists: /home/ubuntu/ejabberd-16.04/doc
+Unpacking files
+Unpacking /home/ubuntu/ejabberd-16.04/doc/guide.html
+Executing final installation script
+Script output:
+
+       -=- ejabberd post installation script -=- 
+              (c) 2005-2016 ProcessOne 
+
+* Checking ejabberd installation
+
+* Starting ejabberd instance
+
+* Creating administrator user
+User admin@ip-172-31-43-103.us-west-2.compute.internal successfully registered
+
+* Stopping ejabberd instance
+==> Setup finished
+
+Creating Uninstaller
+Creating uninstaller 25%
+Creating uninstaller 50%
+Creating uninstaller 75%
+Creating uninstaller 100%
+Installation completed
+Log finished 06/03/2016 at 07:21:21

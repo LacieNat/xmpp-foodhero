@@ -1,0 +1,4 @@
+#!/bin/sh
+ROOTDIR=/home/ubuntu/ejabberd-16.04
+$ROOTDIR/bin/ejabberdctl status
+

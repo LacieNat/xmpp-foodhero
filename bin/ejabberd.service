@@ -1,0 +1,17 @@
+[Unit]
+Description=XMPP Server
+After=network.target
+
+[Service]
+User=ejabberd
+Group=ejabberd
+LimitNOFILE=16000
+RestartSec=5
+ExecStart=/home/ubuntu/ejabberd-16.04/bin/ejabberdctl start
+ExecStop=/home/ubuntu/ejabberd-16.04/bin/ejabberdctl stop
+ExecReload=/home/ubuntu/ejabberd-16.04/bin/ejabberdctl reload_config
+Type=oneshot
+RemainAfterExit=yes
+
+[Install]
+WantedBy=multi-user.target
